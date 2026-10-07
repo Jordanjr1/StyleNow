@@ -80,4 +80,4 @@ La aplicación quedará disponible en `http://127.0.0.1:8000`.
 **Jordan Ramos**
 Estudiante de desarrollo de software, Instituto Tecnológico Cordillera
 Correo: jordanramos3323@gmail.com
-GitHub: [@TU-USUARIO](https://github.com/TU-USUARIO)
+GitHub: [@jordanjr1](https://github.com/jordanjr1)
