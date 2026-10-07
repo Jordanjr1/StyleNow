@@ -32,7 +32,7 @@ Sistema web de gestión para salones de belleza, desarrollado con **PHP y Larave
 - PHP
 - Laravel (Blade, Eloquent, Artisan)
 - HTML, CSS y JavaScript
-- [MySQL / SQL Server] <!-- deja solo la base de datos que usaste -->
+- [MySQL / SQL Server] 
 
 ## Requisitos
 
@@ -45,7 +45,7 @@ Sistema web de gestión para salones de belleza, desarrollado con **PHP y Larave
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/StyleNow.git
+   git clone https://github.com/jordanjr1/StyleNow.git
    cd StyleNow
    ```
 
